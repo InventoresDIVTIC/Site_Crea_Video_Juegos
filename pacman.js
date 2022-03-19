@@ -968,7 +968,7 @@ var PACMAN = (function () {
         } else if (state === WAITING && stateChanged) {            
             stateChanged = false;
             map.draw(ctx);
-            dialog("Presiona N para iniciar un Nuevo Juego");            
+            dialog("Presiona N para iniciar");            
         } else if (state === EATEN_PAUSE && 
                    (tick - timerStart) > (Pacman.FPS / 3)) {
             map.draw(ctx);
