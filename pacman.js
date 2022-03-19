@@ -1081,7 +1081,7 @@ var PACMAN = (function () {
         
     function loaded() {
 
-        dialog("Press N to Start");
+        dialog("Presiona N para Iniciar");
         
         document.addEventListener("keydown", keyDown, true);
         document.addEventListener("keypress", keyPress, true); 
