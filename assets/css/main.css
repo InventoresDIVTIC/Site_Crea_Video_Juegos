@@ -172,7 +172,7 @@
 		/*MENU DISEÑO*/
 		a:hover {
 			border-bottom-color: transparent;
-			color: #fff;
+			color: rgb(40, 87, 13);
 		}
 
 	strong, b {
@@ -193,7 +193,7 @@
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: rgba(54, 161, 63, 0.875);
+		color: rgba(0, 17, 255, 0.875);
 		font-family: Arial, Helvetica, sans-serif;
 		font-weight: 700;
 		line-height: 1.3;
@@ -227,7 +227,7 @@
 			left: 0;
 			width: 15rem;
 			height: 0.5rem;
-			background-color: rgb(48, 74, 144);
+			background-color: rgb(31, 97, 18);
 		}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -249,7 +249,7 @@
 			left: 0;
 			width: 15rem;
 			height: 0.5rem;
-			background-color: rgb(0, 60, 255);
+			background-color: rgb(24, 99, 34);
 		}
 
 		h1.majorazul:after, h2.majorazul:after, h3.majorazul:after {
@@ -1191,7 +1191,7 @@
 				height: 6rem;
 				line-height: 6rem;
 				border-radius: 6rem;
-				box-shadow: inset 0 0 0 2px rgb(255, 255, 255);
+				box-shadow: inset 0 0 0 2px rgb(25, 136, 40);
 				font-size: 2.5rem;
 				margin: 0 auto;
 				text-align: center;
@@ -1203,7 +1203,7 @@
 				height: 6rem;
 				line-height: 6rem;
 				border-radius: 6rem;
-				box-shadow: inset 0 0 0 2px rgba(52, 204, 204);
+				box-shadow: inset 0 0 0 2px rgb(48, 133, 31);
 				font-size: 2.5rem;
 				margin: 0 auto;
 				text-align: center;
@@ -1253,7 +1253,7 @@
 			height: 2px;
 			top: 50%;
 			left: -1.5rem;
-			background-color: rgb(255, 255, 255);
+			background-color: rgb(27, 109, 7);
 		}
 
 		ul.grid-icons-blue.connected > li:before {
@@ -1264,7 +1264,7 @@
 			height: 2px;
 			top: 50%;
 			left: -1.5rem;
-			background-color: rgb(52, 204, 204);
+			background-color: rgb(38, 100, 22);
 		}
 
 		ul.grid-icons.connected > li:after {
@@ -1275,7 +1275,7 @@
 			height: 1.5rem;
 			top: -1.5rem;
 			left: 50%;
-			background-color: rgb(255, 255, 255);
+			background-color: rgb(22, 112, 19);
 		}
 
 		ul.grid-icons-blue.connected > li:after {
@@ -1488,7 +1488,7 @@
 				height: 2.25rem;
 				line-height: 2.25rem;
 				border-radius: 2.25rem;
-				background-color: white;
+				background-color: rgb(16, 110, 13);
 				color: #2e2b37;
 				cursor: default;
 				font-size: 1.125rem;
@@ -2351,7 +2351,7 @@
 		}
 
 			.panel > *.color1 {
-				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(247, 243, 13) 20%,rgb(247, 243, 13) ,rgb(247, 243, 13)  80%);
+				background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(33, 247, 13) 20%,rgb(33, 247, 13) ,rgb(33, 247, 13)  80%);
 				background-size: 128px 128px, auto;
 				background-color: #fff;
 			}
