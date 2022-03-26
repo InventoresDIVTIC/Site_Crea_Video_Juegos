@@ -76,7 +76,7 @@
 			z-index: -1;
 			background-attachment: fixed;
 			background-color: #e1e6e1;
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(238, 238, 238) 10%,#555c9c,#ff4a80,#eeff04 80%, rgb(117, 255, 5));
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(238, 238, 238) 10%,#4f5cd8,#ff4a80,#eeff04 80%, rgb(117, 255, 5));
 			background-repeat: repeat, repeat-x;
 			background-size: 128px 128px, cover;
 		}
