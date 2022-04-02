@@ -57,7 +57,8 @@
 			width: 4rem;
 			height: 4rem;
 			margin: -2rem 0 0 -2rem;
-			background-image: url();
+			
+			background-image: url("../../images/logo_rodea.png");
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 4rem;
@@ -695,7 +696,7 @@
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			content: '\f00c';
-			background: rgba(247, 0, 0, 0.875);
+			background: rgba(255, 255, 255, 0.875);
 			border-color: rgba(255, 255, 255, 0.875);
 		}
 
