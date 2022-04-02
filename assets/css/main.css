@@ -2344,7 +2344,7 @@
 		}
 
 		.panel > *.color0 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, #000 20%,#000,#000 80%);
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(0, 0, 0) 20%,#000,#000 80%);
 			background-size: 128px 128px, auto;
 			background-color: #fff;
 		}
@@ -2875,7 +2875,7 @@
 
 		/*Panel Contacto*/
 		.panel.color0 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, #fff 20%, #fff 60%, #fff);
+			background-image: url("../../images/overlay.png"), linear-gradient(45deg, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 60%, rgb(0, 0, 0));
 			background-size: 128px 128px, auto;
 		}
 
